@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on machine learning projects related to the financial and banking world
 - 📫 You can reach me via gmail or facebook : wassime.elyamani 
 
+More about me :
+- 🏢 Industrial/Data Engineer, currently working on the Automotive Group STELLANTIS - Morocco 
+- 📖 With keen passion to Philosophy and Geopolitics
+
 <!---
 dWassimeb/dWassimeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
